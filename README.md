@@ -1,3 +1,3 @@
 # Sonaric
 ## Sonaric Install 
-Coming Soon
+Guide will be shared with the last update
